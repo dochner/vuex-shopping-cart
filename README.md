@@ -1,4 +1,5 @@
 # vuex-shopping-cart
+## Using Vuex, BulmaCSS, Axios
 
 ## Project setup
 ```
