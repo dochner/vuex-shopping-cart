@@ -1,6 +1,6 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
-import CartList from '../components/cart/Cart_List.vue'
-import ProductList from '../components/product/Product_List.vue'
+import CartList from '../components/cart/CartListItem'
+import ProductList from '../components/product/ProductList'
 
 const routes = [
   {
